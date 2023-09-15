@@ -9,7 +9,7 @@
 
 - I explored AWS and built an app named [Personal Expense Tracker App using AWS](https://github.com/Rohan-Nandula/Personal-expense-tracker)
 
-- My interest in learning new technologies prompted me to [Blockchain based E-Voting Portal](https://github.com/Rohan-Nandula/blockchain-e-voting-portal)
+- My interest in learning new technologies prompted me to build an app called [Blockchain based E-Voting Portal](https://github.com/Rohan-Nandula/blockchain-e-voting-portal)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Nandula](https://github.com/Rohan-Nandula)
 
