@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-nandula&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-nandula" /> </p>
 
-- I have worked on building a real-time tax management application called [Rampally-Dayara Property Tax Management Application](https://rampallydayara.in/)
+- I have worked on performance optimization and automation tasks as a Software Intern @ [O.C. Tanner]
 
-- 🌱 I’m currently learning **Automated Learning using Data Analysis and Web Development using Flask and Next.js**
+- 🌱 I’m currently learning **Automated Learning using Data Analysis and Mobile Application Development using Swift and SwiftUI**
 
 - I explored AWS and built an app named [Personal Expense Tracker App using AWS](https://github.com/Rohan-Nandula/Personal-expense-tracker)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Nandula](https://github.com/Rohan-Nandula)
 
-- 💬 Ask me about **Java, Python, AWS**
+- 💬 Ask me about **Python, Java, AWS**
 
 - 📫 How to reach me **rohankausikn@gmail.com**
 
