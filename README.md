@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-nandula&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-nandula" /> </p>
 
-- I have worked on performance optimization and automation tasks as a Software Intern @ [O.C. Tanner]
+- I have worked on performance optimization and automation tasks as a **Software Intern @ O.C. Tanner**
 
 - 🌱 I’m currently learning **Automated Learning using Data Analysis and Mobile Application Development using Swift and SwiftUI**
 
