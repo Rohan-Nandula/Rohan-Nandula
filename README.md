@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rohankausikn@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rohan-nandula-resume.tiiny.site)
+- 📄 Know about my experiences [Resume](https://rohankn.tiiny.site)
 
 - ⚡ Fun fact **I enjoy driving sedans!**
 
